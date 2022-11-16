@@ -1,6 +1,6 @@
 // eslint-disable-next-line default-case-last
 import React from 'react';
-import '../styles/components/Footer.css';
+import '../styles/components/Footer.styl';
 
 function Footer() {
   return (
